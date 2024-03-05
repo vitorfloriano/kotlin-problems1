@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - Kotlin is named after the
+  - The primary goal of developing Kotlin was
+  - "At the Google I/O 2017 conference, Google announced"
+  - "As a general-purpose language, Kotlin"
+options:
+  - can be used in very many spheres
+  - 'to provide a safer and more concise alternative to Java '
+  - first-class support for Kotlin on Android
+  - "Kotlin Island near St. Petersburg, Russia"
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18834#comment
+status: Unchecked
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

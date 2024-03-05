@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Almost val variables" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Correct the error in the code" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating a constant" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating a dynamic greeting message" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Creating immutable variables for user details display" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Erroneous lines" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/What is the error" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/What is the modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Why does the code work" />
+            <option value="$PROJECT_DIR$/Topics/Constants and val variables/Zero, one, or more" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/And what for" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Compatibility" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Concatenating and printing two strings" />

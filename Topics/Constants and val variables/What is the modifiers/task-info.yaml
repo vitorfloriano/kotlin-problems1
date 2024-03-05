@@ -1,0 +1,27 @@
+type: matching
+custom_name: What is the modifiers?
+captions:
+  - var
+  - val
+  - const val
+options:
+  - number1 = 123
+  - number = 0 <br> number = number1 + NUMBER_2
+  - NUMBER_2 = 321
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24246#comment
+status: Unchecked
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
